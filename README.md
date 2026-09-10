@@ -39,11 +39,11 @@ research → prototype → secure integration → qualification → deployment �
 
 ## Current focus
 
-- **Secure Edge AI** — trusted deployment and lifecycle control for models running on devices and industrial fleets
-- **Agentic AI** — reliable tool-using agents, orchestration, evaluation, guardrails, and production architecture
-- **Cybersecurity** — device identity, attestation, trusted execution, update integrity, compromise containment, and recovery
-- **Production AI Engineering** — observability, evaluation, regression gates, rollback, evidence, and governance
-- **Embedded & Trusted Systems** — IoT, RISC-V, FPGA, TPM 2.0, TEE, and hardware-rooted trust
+- **Secure Edge AI**  trusted deployment and lifecycle control for models running on devices and industrial fleets
+- **Agentic AI**  reliable tool-using agents, orchestration, evaluation, guardrails, and production architecture
+- **Cybersecurity**  device identity, attestation, trusted execution, update integrity, compromise containment, and recovery
+- **Production AI Engineering**  observability, evaluation, regression gates, rollback, evidence, and governance
+- **Embedded & Trusted Systems**  IoT, RISC-V, FPGA, TPM 2.0, TEE, and hardware-rooted trust
 
 ## Selected work
 
