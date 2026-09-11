@@ -54,6 +54,23 @@ A multi-partner industrial AI programme focused on turning edge-AI deployment in
 
 → [life-ai.se](https://life-ai.se)
 
+### ⚡ PromptPulse
+**Continuous LLM Evaluation & Release Gating**
+
+Production-oriented quality assurance for LLM chatbots. PromptPulse converts behavioral checks into repeatable release gates across **answer relevance, groundedness, reference coverage, and policy compliance**.
+
+<div align="center">
+  <a href="https://prompt-pulse.streamlit.app/">
+    <img src="https://raw.githubusercontent.com/h00w/h00w.github.io/main/public/PromptPulse.png" alt="PromptPulse — continuous LLM evaluation and release gating" width="520" />
+  </a>
+</div>
+
+**What it demonstrates:** dataset-driven regression tests, Hugging Face inference, automatic provider/model fallback, deterministic quality gates, optional DeepEval LLM-as-a-judge evaluation, GitHub Actions CI/CD, and an interactive Streamlit dashboard.
+
+`LLMOps` · `AI Evaluation` · `DeepEval` · `Hugging Face` · `GitHub Actions` · `Streamlit` · `Python`
+
+→ [Live demo](https://prompt-pulse.streamlit.app/) · [Source code](https://github.com/h00w/PromptPulse)
+
 ### Secure Edge AI Governance Playground
 
 Practical experiments and engineering patterns for secure model delivery, attestation, fleet governance, rollout controls, rollback, evidence, and production-oriented AI lifecycle design.
