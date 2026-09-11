@@ -85,7 +85,7 @@ Practical experiments and engineering patterns for secure model delivery, attest
                  └──────────┬───────────┘
                             │
         ┌───────────────────▼───────────────────┐
-        │ Secure Delivery · Identity · Attest. │
+        │ Secure Delivery · Identity · Attest.  │
         └───────────────────┬───────────────────┘
                             │
                  ┌──────────▼───────────┐
