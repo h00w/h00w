@@ -60,12 +60,12 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 
 ## Current focus
 
-- **Agentic AI** — reliable tool-using agents, orchestration, RAG, MCP, evaluation, security, observability and production architecture
-- **Production AI Engineering** — release gates, lifecycle controls, monitoring, rollback, evidence and operational reliability
-- **Secure Edge AI** — trusted deployment and lifecycle control for models running across devices and industrial fleets
-- **AI Governance** — executable policy, human approval, risk controls, attestation, audit and accountability
-- **Cybersecurity** — device identity, attestation, trusted execution, update integrity, compromise containment and recovery
-- **Embedded & Trusted Systems** — IoT, RISC-V, FPGA, TPM 2.0, TEE and hardware-rooted trust
+- **Agentic AI** : reliable tool-using agents, orchestration, RAG, MCP, evaluation, security, observability and production architecture
+- **Production AI Engineering** : release gates, lifecycle controls, monitoring, rollback, evidence and operational reliability
+- **Secure Edge AI** : trusted deployment and lifecycle control for models running across devices and industrial fleets
+- **AI Governance** : executable policy, human approval, risk controls, attestation, audit and accountability
+- **Cybersecurity** : device identity, attestation, trusted execution, update integrity, compromise containment and recovery
+- **Embedded & Trusted Systems** : IoT, RISC-V, FPGA, TPM 2.0, TEE and hardware-rooted trust
 
 ---
 
