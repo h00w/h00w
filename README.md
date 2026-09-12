@@ -213,7 +213,7 @@ These repositories reflect broader systems, security, embedded, research and dev
 
 ## Research & collaboration
 
-I enjoy work that connects **research depth with deployable engineering** — particularly secure AI infrastructure, agentic systems, production AI, industrial Edge AI, trusted computing, AI evaluation and lifecycle governance.
+I enjoy work that connects **research depth with deployable engineering** particularly secure AI infrastructure, agentic systems, production AI, industrial Edge AI, trusted computing, AI evaluation and lifecycle governance.
 
 If you are building AI that must operate **beyond the demo**, I am interested in collaborations where technical depth, production reliability and responsible AI belong together.
 
