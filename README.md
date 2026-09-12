@@ -1,79 +1,174 @@
 <div align="center">
 
-```text
-██╗  ██╗ ██████╗  ██████╗ ██╗    ██╗
-██║  ██║██╔═████╗██╔═████╗██║    ██║
-███████║██║██╔██║██║██╔██║██║ █╗ ██║
-██╔══██║████╔╝██║████╔╝██║██║███╗██║
-██║  ██║╚██████╔╝╚██████╔╝╚███╔███╔╝
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚══╝╚══╝
+# Hendar Mawan, PhD Eng.
 
-      secure systems · edge AI · agentic AI
-```
+### AI Engineering Leader · AI Architect · Production AI · Edge AI · AI Governance
 
-# Hendar Mawan
+**Building secure, scalable and responsible AI systems from prototype to production.**
 
-### Building trustworthy AI systems from model to machine.
-
-**Secure Edge AI · Agentic AI · Cybersecurity · Embedded Systems · AI Lifecycle Governance**
-
-[![Website](https://img.shields.io/badge/Portfolio-hendarmawan.se-111111?style=flat-square&logo=githubpages&logoColor=white)](https://hendarmawan.se)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hendarmawan.se-0B3D91?style=flat-square&logo=googlechrome&logoColor=white)](https://hendarmawan.se)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hender-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hender/)
 [![GitHub](https://img.shields.io/badge/GitHub-@h00w-181717?style=flat-square&logo=github)](https://github.com/h00w)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-h0000w-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/h0000w)
 [![Location](https://img.shields.io/badge/Stockholm-Sweden-006AA7?style=flat-square)](https://www.google.com/maps/search/Stockholm%2C+Sweden)
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I work at the intersection of **AI engineering, cybersecurity, and embedded systems**, with a particular focus on making AI deployable, observable, recoverable, and trustworthy in real-world environments.
+I work at the intersection of **AI engineering, production AI, secure systems, Edge AI, cloud/platform engineering, cybersecurity and technical leadership**.
 
-My work spans the full lifecycle of intelligent systems: from model and agent design to secure deployment, device identity, attestation, over-the-air updates, rollback, monitoring, evidence generation, and operational governance.
+My focus is the hard part that begins after an AI prototype works: **architecture, integration, deployment, evaluation, observability, governance, rollback, operational evidence and lifecycle ownership**.
 
-I am especially interested in systems where AI cannot remain a demo — it has to operate reliably across **industrial fleets, constrained edge devices, and security-sensitive environments**.
+I build and lead systems where AI must operate reliably across enterprise platforms, industrial fleets, constrained edge devices and security-sensitive environments.
 
 ```text
-research → prototype → secure integration → qualification → deployment → evidence → improvement
+research → prototype → evaluate → secure → deploy → observe → govern → improve
 ```
+
+My current trajectory combines hands-on engineering with platform architecture and R&D leadership:
+
+**AI Engineer → AI Architect → AI Engineering Leader → Director of AI pathway**
+
+---
+
+## Agentic AI Academy
+
+### Engineering trustworthy AI agents from learning to production.
+
+**EXPLORE • IMPLEMENT • SCALE**
+
+<p align="center">
+  <a href="https://hendarmawan.se/agentic-ai/">
+    <img src="https://raw.githubusercontent.com/h00w/agentic-ai/refs/heads/main/assets/agenticai.png" alt="Agentic AI Academy" width="100%">
+  </a>
+</p>
+
+**Agentic AI Academy** is an open-source curriculum, engineering laboratory, reference architecture and professional portfolio for learning how to design, build, evaluate, secure, operate, govern and scale AI agents.
+
+It treats agentic AI as a **systems-engineering discipline** rather than a collection of chatbot tutorials. The curriculum connects capability with measurable reliability, bounded autonomy, tool permissions, evaluation, observability, security, governance and safe failure behavior.
+
+**14 modules · practical engineering projects · evaluation · security · observability · governance · enterprise architecture**
+
+→ [Academy Website](https://hendarmawan.se/agentic-ai/)  
+→ [GitHub Repository](https://github.com/h00w/agentic-ai/)  
+→ [Interactive Hugging Face Demo](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)
+
+---
 
 ## Current focus
 
-- **Secure Edge AI**  trusted deployment and lifecycle control for models running on devices and industrial fleets
-- **Agentic AI**  reliable tool-using agents, orchestration, evaluation, guardrails, and production architecture
-- **Cybersecurity**  device identity, attestation, trusted execution, update integrity, compromise containment, and recovery
-- **Production AI Engineering**  observability, evaluation, regression gates, rollback, evidence, and governance
-- **Embedded & Trusted Systems**  IoT, RISC-V, FPGA, TPM 2.0, TEE, and hardware-rooted trust
+- **Agentic AI** — reliable tool-using agents, orchestration, RAG, MCP, evaluation, security, observability and production architecture
+- **Production AI Engineering** — release gates, lifecycle controls, monitoring, rollback, evidence and operational reliability
+- **Secure Edge AI** — trusted deployment and lifecycle control for models running across devices and industrial fleets
+- **AI Governance** — executable policy, human approval, risk controls, attestation, audit and accountability
+- **Cybersecurity** — device identity, attestation, trusted execution, update integrity, compromise containment and recovery
+- **Embedded & Trusted Systems** — IoT, RISC-V, FPGA, TPM 2.0, TEE and hardware-rooted trust
 
-## Selected work
+---
+
+# Projects
+
+## Flagship AI & Automation Projects
+
+### Agentic AI Academy
+
+**Engineering trustworthy AI agents from learning to production**
+
+Open-source curriculum and engineering laboratory spanning foundations, tools, RAG, MCP, multi-agent systems, evaluation, security, production engineering, observability, governance, enterprise architecture and AI leadership.
+
+`Agentic AI` · `AI Agents` · `LLM Engineering` · `RAG` · `MCP` · `AI Evaluation` · `AI Security` · `AI Governance`
+
+→ [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Live Demo](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)
+
+---
 
 ### LIFE-AI
+
 **Lifecycle-First Edge AI for Industrial Fleets**
 
 A multi-partner industrial AI programme focused on turning edge-AI deployment into a governed lifecycle: optimization, secure delivery, staged rollout, qualification gates, rollback, monitoring, and operational evidence.
 
-→ [life-ai.se](https://life-ai.se)
+`Edge AI` · `Industrial AI` · `AI Lifecycle` · `Secure Delivery` · `Governance` · `Qualification`
 
-### ⚡ PromptPulse
+→ [life-ai.se](https://life-ai.se/) · [Demo / Platform Login](https://life-ai.se/login)
+
+---
+
+### Secure Edge AI Governance
+
+**Deterministic release control for governed Edge AI**
+
+Executable governance for AI releases with fail-closed decision gates, two-person approval, risk and drift controls, signature and attestation evidence, regression qualification, auditability and MCP-based tooling.
+
+`AI Governance` · `Edge AI` · `Security` · `MCP` · `Human-in-the-Loop` · `Attestation`
+
+→ [Repository](https://github.com/h00w/secure-edge-ai-governance) · [Live Streamlit Demo](https://secure-edge-ai-governance.streamlit.app/) · [Web Playground](https://secure-edge-ai-governance.hendar2-0.chatgpt.site/)
+
+---
+
+### Production AI Automation
+
+**Context → Action → Verification**
+
+Production-oriented AI workflow automation with typed contracts, explicit tool boundaries, business-rule verification, human approval, regression testing, CI and auditable outcomes.
+
+`Production AI` · `Workflow Automation` · `Python` · `Human-in-the-Loop` · `Testing` · `CI/CD`
+
+→ [Repository](https://github.com/h00w/production-ai-automation) · [Live Demo](https://pro-ai-automation.streamlit.app/)
+
+---
+
+### PromptPulse
+
 **Continuous LLM Evaluation & Release Gating**
 
-Production-oriented quality assurance for LLM chatbots. PromptPulse converts behavioral checks into repeatable release gates across **answer relevance, groundedness, reference coverage, and policy compliance**.
-
-**What it demonstrates:** dataset-driven regression tests, Hugging Face inference, automatic provider/model fallback, deterministic quality gates, optional DeepEval LLM-as-a-judge evaluation, GitHub Actions CI/CD, and an interactive Streamlit dashboard.
+Production-oriented quality assurance for LLM applications. PromptPulse turns behavioral checks into repeatable release gates across answer relevance, groundedness, reference coverage and policy compliance.
 
 `LLMOps` · `AI Evaluation` · `DeepEval` · `Hugging Face` · `GitHub Actions` · `Streamlit` · `Python`
 
-→ [Live demo](https://prompt-pulse.streamlit.app/) · [Source code](https://github.com/h00w/PromptPulse)
+→ [Repository](https://github.com/h00w/PromptPulse) · [Live Demo](https://prompt-pulse.streamlit.app/)
 
-### Secure Edge AI Governance Playground
+---
 
-Practical experiments and engineering patterns for secure model delivery, attestation, fleet governance, rollout controls, rollback, evidence, and production-oriented AI lifecycle design.
+### Personal AI Engineering Portfolio
 
-→ Explore my repositories on [github.com/h00w](https://github.com/h00w)
+**AI Engineer → AI Architect → AI Engineering Leader**
+
+A curated personal website covering production AI, Agentic AI, Edge AI, AI governance, technical leadership, research and engineering proof-of-work.
+
+→ [hendarmawan.se](https://hendarmawan.se) · [GitHub Pages source](https://github.com/h00w/h00w.github.io)
+
+---
+
+## Additional Engineering & Open-Source Repositories
+
+These repositories reflect broader systems, security, embedded, research and developer-tool interests:
+
+| Repository | Focus |
+|---|---|
+| [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, engineering patterns and demos |
+| [production-ai-automation](https://github.com/h00w/production-ai-automation) | Production AI workflow automation and verification |
+| [secure-edge-ai-governance](https://github.com/h00w/secure-edge-ai-governance) | Governed Edge AI release control and policy gates |
+| [PromptPulse](https://github.com/h00w/PromptPulse) | LLM evaluation and release gating |
+| [h00w.github.io](https://github.com/h00w/h00w.github.io) | Personal portfolio and technical blog |
+| [autoresearch](https://github.com/h00w/autoresearch) | Research-oriented engineering experiments |
+| [ECC-OP](https://github.com/h00w/ECC-OP) | Engineering / systems research repository |
+| [cryptobook](https://github.com/h00w/cryptobook) | Cryptography-related learning and engineering material |
+| [yocto-v2n](https://github.com/h00w/yocto-v2n) | Embedded Linux / Yocto engineering |
+| [yocto-v2n-enduser](https://github.com/h00w/yocto-v2n-enduser) | End-user Yocto / embedded Linux work |
+| [Notes-and-codes](https://github.com/h00w/Notes-and-codes) | Developer productivity / notes-and-code tooling |
+| [claude-code-best-practice](https://github.com/h00w/claude-code-best-practice) | AI-assisted software engineering practices |
+| [opik](https://github.com/h00w/opik) | LLM observability / evaluation ecosystem exploration |
+| [h00w](https://github.com/h00w/h00w) | GitHub profile repository |
+
+---
 
 ## Engineering principles
 
-> **AI is not production-ready when the model works. It is production-ready when the system can be trusted, observed, updated, recovered, and governed.**
+> **AI is not production-ready when the model works. It is production-ready when the system can be trusted, observed, updated, recovered and governed.**
 
 ```text
                  ┌──────────────────────┐
@@ -98,22 +193,36 @@ Practical experiments and engineering patterns for secure model delivery, attest
                  └──────────────────────┘
 ```
 
+---
+
 ## Technology landscape
 
-`Python` · `C/C++` · `Embedded Linux` · `IoT` · `Edge AI` · `LLMs` · `AI Agents` · `MLOps` · `Secure MLOps` · `TPM 2.0` · `TEE` · `RISC-V` · `FPGA` · `GitHub Actions` · `Docker` · `Security Architecture`
+**AI & LLM Engineering**  
+`Python` · `LLMs` · `Agentic AI` · `AI Agents` · `RAG` · `MCP` · `Prompt Engineering` · `AI Evaluation` · `LLMOps`
 
-## Research & collaboration
+**Production AI & Platform Engineering**  
+`MLOps` · `Secure MLOps` · `Workflow Automation` · `GitHub Actions` · `Docker` · `Kubernetes` · `Observability` · `CI/CD`
 
-I enjoy work that connects **research depth with deployable engineering** — especially collaborations around secure AI infrastructure, agentic systems, industrial AI, trustworthy edge computing, embedded security, and production AI lifecycle assurance.
+**Security & Edge Systems**  
+`Edge AI` · `Embedded Linux` · `IoT` · `TPM 2.0` · `TEE` · `RISC-V` · `FPGA` · `Device Attestation` · `Security Architecture`
 
-If you are building AI that must operate beyond the lab, I am always interested in technically serious collaborations.
+**Leadership & Governance**  
+`AI Strategy` · `AI Governance` · `R&D Leadership` · `Technical Roadmaps` · `Research-to-Product` · `Industrial AI`
 
 ---
 
+## Research & collaboration
+
+I enjoy work that connects **research depth with deployable engineering** — particularly secure AI infrastructure, agentic systems, production AI, industrial Edge AI, trusted computing, AI evaluation and lifecycle governance.
+
+If you are building AI that must operate **beyond the demo**, I am interested in collaborations where technical depth, production reliability and responsible AI belong together.
+
 <div align="center">
 
-### Build useful systems. Make them trustworthy. Make them survive production.
+### Build useful AI. Engineer trust. Make it survive production.
 
-<sub>Stockholm, Sweden · @h00w</sub>
+[Website](https://hendarmawan.se) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+
+<sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
 </div>
