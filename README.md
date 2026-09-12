@@ -17,7 +17,7 @@
 
 **Secure Edge AI · Agentic AI · Cybersecurity · Embedded Systems · AI Lifecycle Governance**
 
-[![Website](https://img.shields.io/badge/Portfolio-h00w.github.io-111111?style=flat-square&logo=githubpages&logoColor=white)](https://hendarmawan.se)
+[![Website](https://img.shields.io/badge/Portfolio-hendarmawan.se-111111?style=flat-square&logo=githubpages&logoColor=white)](https://hendarmawan.se)
 [![GitHub](https://img.shields.io/badge/GitHub-@h00w-181717?style=flat-square&logo=github)](https://github.com/h00w)
 [![Location](https://img.shields.io/badge/Stockholm-Sweden-006AA7?style=flat-square)](https://www.google.com/maps/search/Stockholm%2C+Sweden)
 
