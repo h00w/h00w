@@ -42,7 +42,7 @@ My current trajectory combines hands-on engineering with platform architecture a
 
 <p align="center">
   <a href="https://hendarmawan.se/agentic-ai/">
-    <img src="https://raw.githubusercontent.com/h00w/agentic-ai/refs/heads/main/assets/agenticai.png" alt="Agentic AI Academy" width="100%">
+    <img src="https://raw.githubusercontent.com/h00w/agentic-ai/refs/heads/main/agenticai-banner.png" alt="Agentic AI Academy" width="100%">
   </a>
 </p>
 
@@ -52,9 +52,23 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 
 **14 modules · practical engineering projects · evaluation · security · observability · governance · enterprise architecture**
 
+### Public engineering stack
+
+**Hugging Face Space = experience the agent**  
+**Hugging Face Dataset = benchmark the agent**  
+**Streamlit Engineering Lab = inspect, evaluate and operate the agent**
+
 → [Academy Website](https://hendarmawan.se/agentic-ai/)  
 → [GitHub Repository](https://github.com/h00w/agentic-ai/)  
-→ [Interactive Hugging Face Demo](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)
+→ [Agentic AI Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)  
+→ [Evaluation & Security Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset)  
+→ [Agentic AI Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
+
+The proof chain is deliberately separated by function:
+
+```text
+curriculum → implementation → dataset → evaluation → interactive demo → production engineering
+```
 
 ---
 
@@ -79,9 +93,11 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 
 Open-source curriculum and engineering laboratory spanning foundations, tools, RAG, MCP, multi-agent systems, evaluation, security, production engineering, observability, governance, enterprise architecture and AI leadership.
 
+The public stack includes a live Hugging Face agent playground, a dedicated Agentic AI evaluation and security benchmark dataset, and a Streamlit engineering lab for benchmark execution, trace inspection, RAG evidence, security failures, regression comparison, latency/cost analysis, release gates and downloadable evaluation reports.
+
 `Agentic AI` · `AI Agents` · `LLM Engineering` · `RAG` · `MCP` · `AI Evaluation` · `AI Security` · `AI Governance`
 
-→ [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Live Demo](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)
+→ [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
 
 ---
 
@@ -149,7 +165,7 @@ These repositories reflect broader systems, security, embedded, research and dev
 
 | Repository | Focus |
 |---|---|
-| [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, engineering patterns and demos |
+| [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, benchmark, engineering patterns and live labs |
 | [production-ai-automation](https://github.com/h00w/production-ai-automation) | Production AI workflow automation and verification |
 | [secure-edge-ai-governance](https://github.com/h00w/secure-edge-ai-governance) | Governed Edge AI release control and policy gates |
 | [PromptPulse](https://github.com/h00w/PromptPulse) | LLM evaluation and release gating |
@@ -221,7 +237,7 @@ If you are building AI that must operate **beyond the demo**, I am interested in
 
 ### Build useful AI. Engineer trust. Make it survive production.
 
-[Website](https://hendarmawan.se) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+[Website](https://hendarmawan.se) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
 
 <sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
