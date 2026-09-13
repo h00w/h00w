@@ -10,9 +10,23 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hender-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hender/)
 [![GitHub](https://img.shields.io/badge/GitHub-@h00w-181717?style=flat-square&logo=github)](https://github.com/h00w)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-h0000w-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/h0000w)
-[![Location](https://img.shields.io/badge/Stockholm-Sweden-006AA7?style=flat-square)](https://www.google.com/maps/search/Stockholm%2C+Sweden)
+[![Agentic AI Proof](https://img.shields.io/badge/90--sec%20Proof-Agentic%20AI-5B8DEF?style=flat-square)](https://hendarmawan.se/agentic-ai/proof/)
 
 </div>
+
+---
+
+## Recruiter quick proof
+
+**Start here if you have 90 seconds:** [Agentic AI Recruiter Proof →](https://hendarmawan.se/agentic-ai/proof/)
+
+The proof chain is deliberately separated by function:
+
+**Hugging Face Space = experience the agent**  
+**Hugging Face Dataset = benchmark the agent**  
+**Streamlit Engineering Lab = inspect, evaluate and operate the agent**
+
+[Academy](https://hendarmawan.se/agentic-ai/) · [Source](https://github.com/h00w/agentic-ai) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/)
 
 ---
 
@@ -59,12 +73,11 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 **Streamlit Engineering Lab = inspect, evaluate and operate the agent**
 
 → [Academy Website](https://hendarmawan.se/agentic-ai/)  
+→ [90-Second Recruiter Proof](https://hendarmawan.se/agentic-ai/proof/)  
 → [GitHub Repository](https://github.com/h00w/agentic-ai/)  
 → [Agentic AI Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)  
 → [Evaluation & Security Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset)  
 → [Agentic AI Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
-
-The proof chain is deliberately separated by function:
 
 ```text
 curriculum → implementation → dataset → evaluation → interactive demo → production engineering
@@ -97,7 +110,7 @@ The public stack includes a live Hugging Face agent playground, a dedicated Agen
 
 `Agentic AI` · `AI Agents` · `LLM Engineering` · `RAG` · `MCP` · `AI Evaluation` · `AI Security` · `AI Governance`
 
-→ [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
+→ [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/) · [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
 
 ---
 
@@ -237,7 +250,7 @@ If you are building AI that must operate **beyond the demo**, I am interested in
 
 ### Build useful AI. Engineer trust. Make it survive production.
 
-[Website](https://hendarmawan.se) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
 
 <sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
