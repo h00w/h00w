@@ -1,0 +1,51 @@
+name: Profile Content Lock
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - scripts/check_profile_lock.py
+      - .github/workflows/profile-content-lock.yml
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - scripts/check_profile_lock.py
+      - .github/workflows/profile-content-lock.yml
+
+permissions:
+  contents: read
+
+jobs:
+  protect-profile:
+    name: Enforce append-only project updates
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve comparison base
+        id: base
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            echo "sha=${{ github.event.pull_request.base.sha }}" >> "$GITHUB_OUTPUT"
+          else
+            BEFORE="${{ github.event.before }}"
+            if [[ -z "$BEFORE" || "$BEFORE" == "0000000000000000000000000000000000000000" ]]; then
+              BEFORE="$(git rev-parse HEAD^)"
+            fi
+            echo "sha=$BEFORE" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Materialize locked base README
+        shell: bash
+        run: |
+          git show "${{ steps.base.outputs.sha }}:README.md" > /tmp/README.base.md
+          cp README.md /tmp/README.head.md
+
+      - name: Enforce profile lock
+        run: python scripts/check_profile_lock.py /tmp/README.base.md /tmp/README.head.md
