@@ -90,10 +90,47 @@ curriculum → implementation → dataset → evaluation → interactive demo �
 
 ---
 
+## Human Intelligence Assurance Lab
+
+### An independent reference architecture for measurable, safe, longitudinal, multimodal human-centered AI.
+
+<p align="center">
+  <a href="https://github.com/h00w/Human-Intelligence-Assurance-Lab">
+    <img src="https://raw.githubusercontent.com/h00w/h00w.github.io/refs/heads/main/public/hia-lab.png" alt="Human Intelligence Assurance Lab" width="100%">
+  </a>
+</p>
+
+**Human Intelligence Assurance Lab** is an independent case study and public engineering reference architecture for evaluating whether emotionally aware and longitudinal AI is ready to progress toward production use.
+
+The project focuses on measurable behavioral contracts, privacy boundaries, dependency and relationship-safety checks, uncertainty-aware interpretation, executable release policy, regression evidence and explicit **SHIP / INVESTIGATE / HOLD** decisions. The public stack separates interactive demonstration, datasets, model/evaluator artifacts and mutable operational evidence so the portfolio shows not only an AI concept, but also the engineering system around assurance and release readiness.
+
+`Human-Centered AI` · `AI Assurance` · `AI Safety` · `Longitudinal AI` · `Privacy` · `Multimodal AI` · `AI Evaluation` · `Release Gating`
+
+### Public project stack
+
+→ [GitHub Repository](https://github.com/h00w/Human-Intelligence-Assurance-Lab)  
+→ [Live Hugging Face Space](https://huggingface.co/spaces/h0000w/Human-Intelligence-Assurance-Lab)  
+→ [Evaluation Dataset](https://huggingface.co/datasets/h0000w/Human-Intelligence-Assurance-Lab)  
+→ [Model / Evaluator Artifact](https://huggingface.co/h0000w/Human-Intelligence-Assurance-Lab)  
+→ [Operational Evidence Bucket](https://huggingface.co/buckets/h0000w/Human-Intelligence-Assurance-Lab-storage)
+
+### Build priorities
+
+| Priority | Flagship | Interview signal | Build effort | Recommendation |
+|---|---|---:|---|---|
+| **P0** | **Emotional Intelligence Assurance & Release Gate** | **10/10** | Medium | **Build first** |
+| **P1** | **Longitudinal Memory & Relationship Safety Engine** | **10/10** | Medium | **Build second** |
+| **P2** | **Bio-Context Digital Twin + Trust Layer** | **9/10** | High | Build after P0/P1 |
+| Supporting | Custom-model architecture experiment | 7/10 | High | Research branch |
+| Supporting | Polished companion UI/avatar | 5/10 | High | Don’t prioritize |
+
+---
+
 ## Current focus
 
 - **Agentic AI** : reliable tool-using agents, orchestration, RAG, MCP, evaluation, security, observability and production architecture
 - **Production AI Engineering** : release gates, lifecycle controls, monitoring, rollback, evidence and operational reliability
+- **Human-Centered AI Assurance** : behavioral evaluation, privacy boundaries, relationship safety, uncertainty and evidence-linked release decisions
 - **Secure Edge AI** : trusted deployment and lifecycle control for models running across devices and industrial fleets
 - **AI Governance** : executable policy, human approval, risk controls, attestation, audit and accountability
 - **Cybersecurity** : device identity, attestation, trusted execution, update integrity, compromise containment and recovery
@@ -116,6 +153,18 @@ The public stack includes a live Hugging Face agent playground, a dedicated Agen
 `Agentic AI` · `AI Agents` · `LLM Engineering` · `RAG` · `MCP` · `AI Evaluation` · `AI Security` · `AI Governance`
 
 → [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/) · [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [Release Gate](https://huggingface.co/spaces/h0000w/model-quality-release-gate)
+
+---
+
+### Human Intelligence Assurance Lab
+
+**Measurable assurance for emotionally aware, longitudinal and privacy-preserving AI**
+
+Independent reference architecture and executable evaluation system for human-centered AI. It turns behavioral expectations, dependency and sycophancy risk, privacy boundaries, wellness and crisis constraints, uncertainty and release policy into auditable evidence and explicit release decisions.
+
+`Human-Centered AI` · `AI Assurance` · `AI Safety` · `Privacy` · `Longitudinal AI` · `Multimodal AI` · `Evaluation` · `Release Gating`
+
+→ [Repository](https://github.com/h00w/Human-Intelligence-Assurance-Lab) · [HF Space](https://huggingface.co/spaces/h0000w/Human-Intelligence-Assurance-Lab) · [Dataset](https://huggingface.co/datasets/h0000w/Human-Intelligence-Assurance-Lab) · [Model / Evaluator](https://huggingface.co/h0000w/Human-Intelligence-Assurance-Lab) · [Evidence Bucket](https://huggingface.co/buckets/h0000w/Human-Intelligence-Assurance-Lab-storage)
 
 ---
 
@@ -196,6 +245,7 @@ These repositories reflect broader systems, security, embedded, research and dev
 | Repository | Focus |
 |---|---|
 | [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, benchmark, engineering patterns and live labs |
+| [Human-Intelligence-Assurance-Lab](https://github.com/h00w/Human-Intelligence-Assurance-Lab) | Human-centered AI assurance, longitudinal safety, privacy, multimodal evaluation and release evidence |
 | [model-quality-release-gate](https://github.com/h00w/model-quality-release-gate) | AI model evaluation, regression detection, failure analysis and release gating |
 | [production-ai-automation](https://github.com/h00w/production-ai-automation) | Production AI workflow automation and verification |
 | [secure-edge-ai-governance](https://github.com/h00w/secure-edge-ai-governance) | Governed Edge AI release control and policy gates |
@@ -268,7 +318,7 @@ If you are building AI that must operate **beyond the demo**, I am interested in
 
 ### Build useful AI. Engineer trust. Make it survive production.
 
-[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Model Release Gate](https://hendarmawan.se/model-quality-release-gate/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Human Intelligence Assurance Lab](https://github.com/h00w/Human-Intelligence-Assurance-Lab) · [Model Release Gate](https://hendarmawan.se/model-quality-release-gate/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
 
 <sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
