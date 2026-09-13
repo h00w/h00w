@@ -57,7 +57,7 @@ My current trajectory combines hands-on engineering with platform architecture a
 
 <p align="center">
   <a href="https://hendarmawan.se/agentic-ai/">
-    <img src="https://raw.githubusercontent.com/h00w/agentic-ai/refs/heads/main/agenticai-banner.png" alt="Agentic AI Academy" width="100%">
+    <img src="https://raw.githubusercontent.com/h00w/agentic-ai/refs/heads/main/assets/agenticai.png" alt="Agentic AI Academy" width="100%">
   </a>
 </p>
 
