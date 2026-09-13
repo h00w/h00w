@@ -24,9 +24,10 @@ The proof chain is deliberately separated by function:
 
 **Hugging Face Space = experience the agent**  
 **Hugging Face Dataset = benchmark the agent**  
-**Streamlit Engineering Lab = inspect, evaluate and operate the agent**
+**Streamlit Engineering Lab = inspect, evaluate and operate the agent**  
+**Model Quality Release Gate = decide whether a candidate model should ship**
 
-[Academy](https://hendarmawan.se/agentic-ai/) · [Source](https://github.com/h00w/agentic-ai) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/)
+[Academy](https://hendarmawan.se/agentic-ai/) · [Source](https://github.com/h00w/agentic-ai) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [Release Gate](https://huggingface.co/spaces/h0000w/model-quality-release-gate) · [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/)
 
 ---
 
@@ -70,17 +71,21 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 
 **Hugging Face Space = experience the agent**  
 **Hugging Face Dataset = benchmark the agent**  
-**Streamlit Engineering Lab = inspect, evaluate and operate the agent**
+**Streamlit Engineering Lab = inspect, evaluate and operate the agent**  
+**Model Quality Release Gate = convert evaluation evidence into SHIP / INVESTIGATE / HOLD**
 
 → [Academy Website](https://hendarmawan.se/agentic-ai/)  
 → [90-Second Recruiter Proof](https://hendarmawan.se/agentic-ai/proof/)  
 → [GitHub Repository](https://github.com/h00w/agentic-ai/)  
 → [Agentic AI Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)  
 → [Evaluation & Security Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset)  
-→ [Agentic AI Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
+→ [Agentic AI Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)  
+→ [Model Quality Release Gate](https://hendarmawan.se/model-quality-release-gate/)  
+→ [Release Gate Space](https://huggingface.co/spaces/h0000w/model-quality-release-gate)  
+→ [Release Gate Dataset](https://huggingface.co/datasets/h0000w/model-quality-release-gate)
 
 ```text
-curriculum → implementation → dataset → evaluation → interactive demo → production engineering
+curriculum → implementation → dataset → evaluation → interactive demo → release gate → production engineering
 ```
 
 ---
@@ -106,11 +111,23 @@ curriculum → implementation → dataset → evaluation → interactive demo �
 
 Open-source curriculum and engineering laboratory spanning foundations, tools, RAG, MCP, multi-agent systems, evaluation, security, production engineering, observability, governance, enterprise architecture and AI leadership.
 
-The public stack includes a live Hugging Face agent playground, a dedicated Agentic AI evaluation and security benchmark dataset, and a Streamlit engineering lab for benchmark execution, trace inspection, RAG evidence, security failures, regression comparison, latency/cost analysis, release gates and downloadable evaluation reports.
+The public stack includes a live Hugging Face agent playground, a dedicated Agentic AI evaluation and security benchmark dataset, a Streamlit engineering lab for benchmark execution and a model-quality release gate for explicit production decisions.
 
 `Agentic AI` · `AI Agents` · `LLM Engineering` · `RAG` · `MCP` · `AI Evaluation` · `AI Security` · `AI Governance`
 
-→ [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/) · [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/)
+→ [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/) · [Academy](https://hendarmawan.se/agentic-ai/) · [Repository](https://github.com/h00w/agentic-ai/) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [Release Gate](https://huggingface.co/spaces/h0000w/model-quality-release-gate)
+
+---
+
+### Model Quality Release Gate
+
+**Evaluate. Compare. Detect regressions. Decide.**
+
+A production-oriented evaluation and release-engineering system for AI code-generation models. It compares baseline and candidate versions across helpfulness, safety, reliability, code correctness and latency; inspects failures; enforces configurable tolerances; and produces an explainable **SHIP / INVESTIGATE / HOLD** decision.
+
+`AI Evaluation` · `Model Quality` · `Release Engineering` · `AI Safety` · `MLOps` · `Hugging Face`
+
+→ [Case Study](https://hendarmawan.se/model-quality-release-gate/) · [GitHub](https://github.com/h00w/model-quality-release-gate) · [HF Space](https://huggingface.co/spaces/h0000w/model-quality-release-gate) · [Dataset](https://huggingface.co/datasets/h0000w/model-quality-release-gate) · [Model Card](https://huggingface.co/h0000w/model-quality-release-gate)
 
 ---
 
@@ -179,6 +196,7 @@ These repositories reflect broader systems, security, embedded, research and dev
 | Repository | Focus |
 |---|---|
 | [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, benchmark, engineering patterns and live labs |
+| [model-quality-release-gate](https://github.com/h00w/model-quality-release-gate) | AI model evaluation, regression detection, failure analysis and release gating |
 | [production-ai-automation](https://github.com/h00w/production-ai-automation) | Production AI workflow automation and verification |
 | [secure-edge-ai-governance](https://github.com/h00w/secure-edge-ai-governance) | Governed Edge AI release control and policy gates |
 | [PromptPulse](https://github.com/h00w/PromptPulse) | LLM evaluation and release gating |
@@ -250,7 +268,7 @@ If you are building AI that must operate **beyond the demo**, I am interested in
 
 ### Build useful AI. Engineer trust. Make it survive production.
 
-[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Model Release Gate](https://hendarmawan.se/model-quality-release-gate/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
 
 <sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
