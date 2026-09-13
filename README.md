@@ -16,9 +16,9 @@
 
 ---
 
-## Recruiter quick proof
+## Agentic AI grade quick proof
 
-**Start here if you have 90 seconds:** [Agentic AI Recruiter Proof →](https://hendarmawan.se/agentic-ai/proof/)
+**Start here:** [Agentic AI Recruiter Proof →](https://hendarmawan.se/agentic-ai/proof/)
 
 The proof chain is deliberately separated by function:
 
