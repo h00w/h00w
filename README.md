@@ -27,7 +27,7 @@ The proof chain is deliberately separated by function:
 **Streamlit Engineering Lab = inspect, evaluate and operate the agent**  
 **Model Quality Release Gate = decide whether a candidate model should ship**
 
-[Academy](https://hendarmawan.se/agentic-ai/) · [Source](https://github.com/h00w/agentic-ai) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [Release Gate](https://huggingface.co/spaces/h0000w/model-quality-release-gate) · [90-sec Proof](https://hendarmawan.se/agentic-ai/proof/)
+[Academy](https://hendarmawan.se/agentic-ai/) · [Source](https://github.com/h00w/agentic-ai) · [Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai) · [Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [Release Gate](https://huggingface.co/spaces/h0000w/model-quality-release-gate) · [Proof](https://hendarmawan.se/agentic-ai/proof/)
 
 ---
 
@@ -75,7 +75,7 @@ It treats agentic AI as a **systems-engineering discipline** rather than a colle
 **Model Quality Release Gate = convert evaluation evidence into SHIP / INVESTIGATE / HOLD**
 
 → [Academy Website](https://hendarmawan.se/agentic-ai/)  
-→ [90-Second Recruiter Proof](https://hendarmawan.se/agentic-ai/proof/)  
+→ [Proof](https://hendarmawan.se/agentic-ai/proof/)  
 → [GitHub Repository](https://github.com/h00w/agentic-ai/)  
 → [Agentic AI Playground](https://huggingface.co/spaces/h0000w/hendar-agentic-ai)  
 → [Evaluation & Security Benchmark](https://huggingface.co/datasets/h0000w/hendar-agentic-ai-dataset)  
