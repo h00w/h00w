@@ -116,7 +116,7 @@ The project focuses on measurable behavioral contracts, privacy boundaries, depe
 
 ### Build priorities
 
-| Priority | Flagship | Interview signal | Build effort | Recommendation |
+| Priority | Flagship | Assurance signal | Build effort | Recommendation |
 |---|---|---:|---|---|
 | **P0** | **Emotional Intelligence Assurance & Release Gate** | **10/10** | Medium | **Build first** |
 | **P1** | **Longitudinal Memory & Relationship Safety Engine** | **10/10** | Medium | **Build second** |
