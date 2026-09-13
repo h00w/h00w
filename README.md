@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hender-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hender/)
 [![GitHub](https://img.shields.io/badge/GitHub-@h00w-181717?style=flat-square&logo=github)](https://github.com/h00w)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-h0000w-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/h0000w)
-[![Agentic AI Proof](https://img.shields.io/badge/90--sec%20Proof-Agentic%20AI-5B8DEF?style=flat-square)](https://hendarmawan.se/agentic-ai/proof/)
+[![Agentic AI Proof](https://img.shields.io/badge/Proof-Agentic%20AI-5B8DEF?style=flat-square)](https://hendarmawan.se/agentic-ai/proof/)
 
 </div>
 
