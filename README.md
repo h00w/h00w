@@ -130,6 +130,7 @@ The project focuses on measurable behavioral contracts, privacy boundaries, depe
 
 - **Agentic AI** : reliable tool-using agents, orchestration, RAG, MCP, evaluation, security, observability and production architecture
 - **Production AI Engineering** : release gates, lifecycle controls, monitoring, rollback, evidence and operational reliability
+- **Revenue & Workflow Automation** : governed AI agents, SaaS integrations, durable workflows, bounded side effects and operational proof
 - **Human-Centered AI Assurance** : behavioral evaluation, privacy boundaries, relationship safety, uncertainty and evidence-linked release decisions
 - **Secure Edge AI** : trusted deployment and lifecycle control for models running across devices and industrial fleets
 - **AI Governance** : executable policy, human approval, risk controls, attestation, audit and accountability
@@ -177,6 +178,18 @@ A production-oriented evaluation and release-engineering system for AI code-gene
 `AI Evaluation` · `Model Quality` · `Release Engineering` · `AI Safety` · `MLOps` · `Hugging Face`
 
 → [Case Study](https://hendarmawan.se/model-quality-release-gate/) · [GitHub](https://github.com/h00w/model-quality-release-gate) · [HF Space](https://huggingface.co/spaces/h0000w/model-quality-release-gate) · [Dataset](https://huggingface.co/datasets/h0000w/model-quality-release-gate) · [Model Card](https://huggingface.co/h0000w/model-quality-release-gate)
+
+---
+
+### Autonomous Revenue Ops
+
+**Production-grade AI agents for governed revenue automation**
+
+An engineering reference implementation for autonomous revenue operations where AI contributes judgment but deterministic software retains authority over workflow state, authorization, side effects, retries, recovery and operational evidence. The system combines bounded agents, durable orchestration, human checkpoints, SaaS adapters, policy enforcement, evaluation, release integrity and deployment hardening.
+
+`Agentic AI` · `Revenue Operations` · `Workflow Automation` · `FastAPI` · `SaaS Integrations` · `n8n` · `AI Governance` · `Release Engineering`
+
+→ [Case Study](https://hendarmawan.se/projects/autonomous-revenue-ops/) · [Repository](https://github.com/h00w/autonomous-revenue-ops) · [HF Space](https://huggingface.co/spaces/h0000w/autonomous-revenue-ops) · [Evaluation Dataset](https://huggingface.co/datasets/h0000w/autonomous-revenue-ops) · [System Card](https://huggingface.co/h0000w/autonomous-revenue-ops)
 
 ---
 
@@ -228,31 +241,22 @@ Production-oriented quality assurance for LLM applications. PromptPulse turns be
 
 ---
 
-### Personal AI Engineering Portfolio
-
-**AI Engineer → AI Architect → AI Engineering Leader**
-
-A curated personal website covering production AI, Agentic AI, Edge AI, AI governance, technical leadership, research and engineering proof-of-work.
-
-→ [hendarmawan.se](https://hendarmawan.se) · [GitHub Pages source](https://github.com/h00w/h00w.github.io)
-
----
-
 ## Additional Engineering & Open-Source Repositories
 
 These repositories reflect broader systems, security, embedded, research and developer-tool interests:
 
 | Repository | Focus |
 |---|---|
+| [autonomous-revenue-ops](https://github.com/h00w/autonomous-revenue-ops) | Governed autonomous revenue operations, bounded AI agents, durable workflows, SaaS integrations and operational evidence |
 | [agentic-ai](https://github.com/h00w/agentic-ai) | Agentic AI Academy, curriculum, benchmark, engineering patterns and live labs |
 | [Human-Intelligence-Assurance-Lab](https://github.com/h00w/Human-Intelligence-Assurance-Lab) | Human-centered AI assurance, longitudinal safety, privacy, multimodal evaluation and release evidence |
 | [model-quality-release-gate](https://github.com/h00w/model-quality-release-gate) | AI model evaluation, regression detection, failure analysis and release gating |
 | [production-ai-automation](https://github.com/h00w/production-ai-automation) | Production AI workflow automation and verification |
 | [secure-edge-ai-governance](https://github.com/h00w/secure-edge-ai-governance) | Governed Edge AI release control and policy gates |
 | [PromptPulse](https://github.com/h00w/PromptPulse) | LLM evaluation and release gating |
-| [h00w.github.io](https://github.com/h00w/h00w.github.io) | Personal portfolio and technical blog |
+| [h00w.github.io](https://github.com/h00w/h00w.github.io) | Personal portfolio and technical blog source |
 | [autoresearch](https://github.com/h00w/autoresearch) | Research-oriented engineering experiments |
-| [ECC-OP](https://github.com/h00w/ECC-OP) | Engineering / systems research repository |
+| [ECC-OP](https://github.com/h00w/ECC-OP) | Agent harness performance optimization and research-first AI engineering |
 | [cryptobook](https://github.com/h00w/cryptobook) | Cryptography-related learning and engineering material |
 | [yocto-v2n](https://github.com/h00w/yocto-v2n) | Embedded Linux / Yocto engineering |
 | [yocto-v2n-enduser](https://github.com/h00w/yocto-v2n-enduser) | End-user Yocto / embedded Linux work |
@@ -318,7 +322,7 @@ If you are building AI that must operate **beyond the demo**, I am interested in
 
 ### Build useful AI. Engineer trust. Make it survive production.
 
-[Website](https://hendarmawan.se) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Human Intelligence Assurance Lab](https://github.com/h00w/Human-Intelligence-Assurance-Lab) · [Model Release Gate](https://hendarmawan.se/model-quality-release-gate/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
+[Website](https://hendarmawan.se) · [Autonomous Revenue Ops](https://hendarmawan.se/projects/autonomous-revenue-ops/) · [90-sec Agentic AI Proof](https://hendarmawan.se/agentic-ai/proof/) · [Agentic AI Academy](https://hendarmawan.se/agentic-ai/) · [Human Intelligence Assurance Lab](https://github.com/h00w/Human-Intelligence-Assurance-Lab) · [Model Release Gate](https://hendarmawan.se/model-quality-release-gate/) · [Engineering Lab](https://agentic-ai-engineering-lab.streamlit.app/) · [LinkedIn](https://www.linkedin.com/in/hender/) · [GitHub](https://github.com/h00w) · [Hugging Face](https://huggingface.co/h0000w)
 
 <sub>Stockholm, Sweden · Hendar Mawan, PhD Eng. · @h00w</sub>
 
