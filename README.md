@@ -259,7 +259,6 @@ These repositories reflect broader systems, security, embedded, research and dev
 | [ECC-OP](https://github.com/h00w/ECC-OP) | Agent harness performance optimization and research-first AI engineering |
 | [yocto-v2n](https://github.com/h00w/yocto-v2n) | Embedded Linux / Yocto engineering |
 | [yocto-v2n-enduser](https://github.com/h00w/yocto-v2n-enduser) | End-user Yocto / embedded Linux work |
-| [claude-code-best-practice](https://github.com/h00w/claude-code-best-practice) | AI-assisted software engineering practices |
 | [h00w](https://github.com/h00w/h00w) | GitHub profile repository |
 
 ---
